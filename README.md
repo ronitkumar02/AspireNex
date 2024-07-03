@@ -111,6 +111,5 @@ While Isolation Forest had the highest accuracy, its precision, recall, and F1-s
 
 ## How to Run
 1. Clone the repository or download the notebook.
-2. Install the required packages using `pip install -r requirements.txt`.
-3. Open the notebook using Jupyter Notebook.
-4. Run all cells to preprocess data, train the model, and deploy the predictor.
+2. Open the notebook using Jupyter Notebook.
+3. Run all cells to preprocess data, train the model, and deploy the predictor.
