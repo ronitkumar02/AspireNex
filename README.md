@@ -2,7 +2,7 @@
 
 ## Overview
 This project involves building a model to classify movie genres based on their descriptions. The model uses natural language processing (NLP) techniques and machine learning algorithms to predict the genre of a given movie description. The notebook includes the steps for data preprocessing, model training, evaluation, and deployment.
-
+Dataset Link -![Here](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 ## Data Preprocessing
 - **Text Tokenization**: The movie descriptions are tokenized into sequences of words.
 - **Padding**: The sequences are padded to ensure they are of equal length.
@@ -36,6 +36,8 @@ The notebook includes a section for deploying the model. It allows users to inpu
 
 ## Overview
 This project aims to detect fraudulent credit card transactions using various machine learning algorithms. The notebook includes steps for data preprocessing, model training, evaluation, and comparison of different anomaly detection models.
+
+Dataset Link -![Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Data Preprocessing
 - **Data Scaling**: The transaction data is scaled using standard scaling techniques.
